@@ -1,0 +1,8 @@
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Flujos de Control\Flujos de Control\bin\Debug\Flujos de Control.exe.config
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Flujos de Control\Flujos de Control\bin\Debug\Flujos de Control.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Flujos de Control\Flujos de Control\bin\Debug\Flujos de Control.pdb
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Flujos de Control\Flujos de Control\obj\Debug\Flujos de Control.csproj.AssemblyReference.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Flujos de Control\Flujos de Control\obj\Debug\Flujos de Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Flujos de Control\Flujos de Control\obj\Debug\Flujos de Control.csproj.CoreCompileInputs.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Flujos de Control\Flujos de Control\obj\Debug\Flujos de Control.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Flujos de Control\Flujos de Control\obj\Debug\Flujos de Control.pdb
